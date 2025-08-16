@@ -6,7 +6,7 @@
 <p align="center">
   <samp>
     <a href="https://etavioxy.github.io">me</a> .
-    <a href="https://www.halzi.one:1001/join/">join us</a>
+    <a href="https://join.mihoyo.com">join us</a>
   </samp>
 </p>
 
